@@ -68,7 +68,7 @@ export default function LandingPage() {
                   <CardTitle>Intuitive Dashboard</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p>Get a bird's-eye view of your operations with our easy-to-use dashboard.</p>
+                  <p>Get a bird&apos;s-eye view of your operations with our easy-to-use dashboard.</p>
                 </CardContent>
               </Card>
               <Card>
